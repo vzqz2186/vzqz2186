@@ -1,4 +1,4 @@
-Hello! I'm Daniel Vazquez. I have a Bachelors degree in Information Technology with a minor in Mathematics from Cumberland University in Lebanon, TN.
+Hello! I'm Daniel Vazquez. I have a Bachelors degree in Information Technology with a minor in Mathematics from Cumberland University in Lebanon, Tennessee.
 
 I have coding experience with Python, SQL, and a little bit of PHP and HTML. I’m currently on some personal data analysis projects with SQL and using the Tableau visualization software.
 
